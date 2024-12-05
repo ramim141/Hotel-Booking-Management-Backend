@@ -17,8 +17,7 @@ Password: manager2004
 
 - **Normal User:**
 ```
-Username: saim
-Password: meraz2004
+
 ```
 
 
