@@ -1,0 +1,79 @@
+Hotel Booking Website (BlueSkyBooking)
+
+	Final Assignment
+
+Account app : 
+	All user: 	 https://hotel-booking-website-backend.vercel.app/user/allUser/
+	Account view: https://hotel-booking-website-backend.vercel.app/user/account/
+	Register: 	 https://hotel-booking-website-backend.vercel.app/user/register/
+	Login:  	https://hotel-booking-website-backend.vercel.app/user/login/
+	Logout: 	https://hotel-booking-website-backend.vercel.app/user/logout/
+	Deposit:  	https://hotel-booking-website-backend.vercel.app/user/deposit/
+	User  : 	https://hotel-booking-website-backend.vercel.app/user/is_users_staff/
+	Contact : https://hotel-booking-website-backend.vercel.app/user/admin-messages/
+
+Admin password:
+{
+  "username":"admin",
+  "password":"meraz1234"
+}
+
+
+{
+  "username":"manager",
+  "password":"manager2004"
+}
+
+
+
+
+
+Hotel app : 
+	All-District: 		https://hotel-booking-website-backend.vercel.app/hotel/districts/
+	Districtdetails:		 https://hotel-booking-website-backend.vercel.app/hotel/districts/1/
+
+	All-Hotels: 		https://hotel-booking-website-backend.vercel.app/hotel/hotels/
+	hotel details:		https://hotel-booking-website-backend.vercel.app/hotel/hotels/1
+
+	All-Review: 		https://hotel-booking-website-backend.vercel.app/hotel/reviews/
+	Add Review : 		https://hotel-booking-website-backend.vercel.app/hotel/review_add/
+	Review update,delete :      https://hotel-booking-website-backend.vercel.app/hotel/review_add/1/
+
+	Booked list :	https://hotel-booking-website-backend.vercel.app/hotel/bookings/
+	Book: 			https://hotel-booking-website-backend.vercel.app/hotel/book/
+Download booked pdf: https://hotel-booking-website-backend.vercel.app/hotel/download-booking-pdf/1/
+
+
+
+
+Payment app:
+	
+	Payment book: https://hotel-booking-website-backend.vercel.app/payment/payment-booking/
+	Success: https://hotel-booking-website-backend.vercel.app/payment/success/
+	Failed: https://hotel-booking-website-backend.vercel.app/payment/fail/
+	Cancle: https://hotel-booking-website-backend.vercel.app/payment/cancel/
+
+
+
+
+
+
+
+
+
+
+Live 1 : https://bluskybooking.vercel.app/
+
+Live 2: https://bluskybooking.netlify.app/
+
+
+
+
+
+	Final Assignment
+
+
+
+
+
+{ "hotel_id": 1, "start_date": "2024-07-15", "end_date": "2024-07-20", "number_of_rooms": 2, "user_id": 5 }
