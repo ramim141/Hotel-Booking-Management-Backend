@@ -5,7 +5,6 @@
 
 BlueSkyBooking is a comprehensive hotel booking system developed using Django REST Framework, featuring user authentication, hotel and booking management, payment processing, and review functionalities. This application supports CRUD operations for hotels and bookings, secure payments via SSLCommerz, and integrates email notifications for booking confirmations.
 
--
 - **Frontend GitHub:** [Hotel-Booking-Frontend](https://github.com/ramim141/Hotel-Booking-Management-frontend)
 - **Backend GitHub:** [Hotel-Booking-Website-Backend](https://github.com/ramim141/Hotel-Booking-Management-Backend)
 
